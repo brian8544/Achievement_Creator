@@ -10,7 +10,7 @@ Target the character you want to 'assign' this achievement to. If it's just your
 
 In-Game use the following command /Achievement_Create 14690 10/05/2021 to give yourself "Sinful Gladiator: Shadowlands Season 1". To get this ID, copy it from the WoWHead URL in your browser. (https://www.wowhead.com/achievement=14690)
 
-![Achievement](![Achievement](https://raw.githubusercontent.com/brian8544/Achievement_Creator/main/Dep/Images/Screenshot.png)
+![Achievement](https://raw.githubusercontent.com/brian8544/Achievement_Creator/main/Dep/Images/Screenshot.png)
 
 You can find all ID's from WoWHead or other relevant sites that show achievement id's
 
