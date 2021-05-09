@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: Achievement Creator
+## Notes: Create your own World of Warcraft achievements! |cff00ccff(www.github.com/brian8544)|r
+## Author: brian8544 (www.github.com/brian8544)
+## Version: 1.0
+Achievement_Creator.lua
