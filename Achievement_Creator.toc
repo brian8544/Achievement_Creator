@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: Achievement Creator
 ## Notes: Create your own World of Warcraft achievements! |cff00ccff(www.github.com/brian8544)|r
 ## Author: brian8544 (www.github.com/brian8544)
