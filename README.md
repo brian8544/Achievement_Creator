@@ -1,5 +1,7 @@
 # World of Warcraft Achievement Creator (faker)
 
+This addon NO LONGER works since 9.1.5 -> Blizzard has implemented more checks thus invalidating this addon. Sorry!
+
 Create fake achievements in World of Warcraft to easily get into groups, impress your friends or guildies (without any effort.. duh!)
 
 ## Installation:
