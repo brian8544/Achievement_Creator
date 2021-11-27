@@ -1,4 +1,4 @@
-# World of Warcraft Achievement Creator (faker)
+# [DEPRECATED] World of Warcraft Achievement Creator (faker)
 
 This addon NO LONGER works since 9.1.5 -> Blizzard has implemented more checks thus invalidating this addon. Sorry!
 
